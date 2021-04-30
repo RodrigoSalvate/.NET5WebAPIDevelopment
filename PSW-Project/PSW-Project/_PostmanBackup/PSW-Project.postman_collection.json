@@ -1,0 +1,38 @@
+{
+	"info": {
+		"_postman_id": "37b16a9d-1b1b-4f9a-b39b-98528c4f03e5",
+		"name": "PSW-Project",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "LogIn",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Login\":\"Rodrigo\",\r\n    \"Senha\":\"porco\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:52263/api/LogIn",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "52263",
+					"path": [
+						"api",
+						"LogIn"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
