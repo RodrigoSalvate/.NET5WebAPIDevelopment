@@ -1,7 +1,7 @@
 # .NETWebAPIDevelopment
 
 # Projeto sand box para implementação e aprendizado em APIs.
-#Projeto atual : PSW-Project. Ideia baseada no curso de ciências da computação CEFET-RJ (Aluno: Rodrigo Campos). O objetivo é criar uma API em .net core e passar o conhecimento para o Rodrigo Campos e demais interessados.
+PSW-Project. Ideia baseada no curso de ciências da computação CEFET-RJ (Aluno: Rodrigo Campos). O objetivo é criar uma API em .net core e passar o conhecimento para o Rodrigo Campos e demais interessados.
 
 
 # PSW-Project
